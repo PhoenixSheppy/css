@@ -1,1 +1,0 @@
-import{_ as r}from"./_plugin-vue_export-helper.a1a6add7.js";import{o as s,e as t,x as o}from"./entry.c7208fb2.js";const c={},n={class:"w-full min-h-screen bg-blue-100 grid place-items-center"};function a(e,l){return s(),t("main",n,[o(e.$slots,"default")])}const i=r(c,[["render",a]]);export{i as default};
