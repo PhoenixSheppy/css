@@ -1,0 +1,1 @@
+import{_ as t}from"./Toast.8b0c81bb.js";import{_ as r}from"./_plugin-vue_export-helper.a1a6add7.js";import{o as n,e as s,h as c,x as _}from"./entry.c7208fb2.js";import"./Icon.vue_vue_type_script_setup_true_lang.b684b932.js";const a={};function m(o,p){const e=t;return n(),s("div",null,[c(e),_(o.$slots,"default")])}const u=r(a,[["render",m]]);export{u as default};

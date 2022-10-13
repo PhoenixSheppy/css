@@ -1,0 +1,1 @@
+import{a as t,o,c as n,G as s,m as r,x as c}from"./entry.c7208fb2.js";const l=t({__name:"Container",props:{cmp:{type:String,default:"div"}},setup(e){return(a,m)=>(o(),n(r(e.cmp),{class:"container max-w-6xl mx-auto px-4"},{default:s(()=>[c(a.$slots,"default")]),_:3}))}});export{l as _};
